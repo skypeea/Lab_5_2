@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>"D:\source\RevitApps\Lab_5_2.dll"</Assembly>
+    <AddInId>DD4CC0D2-C515-4277-B9FE-ADBBF3C5AF27</AddInId>
+    <FullClassName>Lab_5_2.Main</FullClassName>
+    <VendorId>ADSK</VendorId>
+    <Text>Lab_5_2_Walls</Text>
+  </AddIn>
+</RevitAddIns>
